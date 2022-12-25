@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+.red{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    left: 400px;
+    top: 0px;
+   
+}
+.blue{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+  
+    
+}
+.green{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0px;
+    left: 200px;
+   
+}
+.container{
+    background-color: gray;
+    height: 400px;
+    width: 600px;
+    position: absolute;
+}
+h1{
+    color: blue;
+}

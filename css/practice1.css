@@ -1,0 +1,22 @@
+h1{
+    color: chartreuse;
+}
+img :hover{
+    background-color: #ff002f;
+    background-image: cross-fade(blue);
+}
+.abc{
+    background-color: rgb(127, 255, 174);
+}
+.ab{
+    background-color: blue;
+}
+#p1{
+    color: blueviolet;
+}
+.p2{
+    color: brown;
+}
+.p3{
+    color: chocolate;
+}
